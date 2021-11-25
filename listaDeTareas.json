@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "lavar la ropa",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "estudiar",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "leer",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "hacer tp",
+    "estado": "listo"
+  }
+]
